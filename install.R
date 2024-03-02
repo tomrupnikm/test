@@ -14,4 +14,4 @@ install.packages(c(
 ))
 install.packages("rmarkdown")
 install.packages("shinydashboard")
-
+install.packages("readr")
