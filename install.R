@@ -1,0 +1,14 @@
+install.packages(c(
+  "shiny",
+  "plotly",
+  "dplyr",
+  "tidyverse",
+  "highcharter",
+  "tidyr",
+  "tidyverse",
+  "geofacet",
+  "ggh4x",
+  "streamgraph",
+  "hrbrthemes",
+  "ggtext"
+))
