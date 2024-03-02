@@ -12,3 +12,7 @@ install.packages(c(
   "hrbrthemes",
   "ggtext"
 ))
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("shinydashboard")
+install.packages('leaflet')
